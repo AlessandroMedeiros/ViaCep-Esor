@@ -6,9 +6,9 @@ Trabalho 3: Engenharia de Software Orientado a Modelos
   * Guilherme Carvalho
   * Lucca Dornelles
   * Alessandro Medeiros
-  * Verdi ..
+  * Gabriel Verdi
   * Gabriel Bilhar
-  * Luiza ..
+  * Luiza Nunes
 #Objetivo
 
 Desenvolver um projeto de software com aplicação de estilos e propriedades arquiteturais.
