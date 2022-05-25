@@ -16,6 +16,9 @@ Trabalho 3: Engenharia de Software Orientado a Modelos
  - [ ] Implementação modelo Facade
  - [ ] Implementação modelo Repository
  - [x] Implementação modelo Observer
+ - [ ] Diagramas de dependências externas
+ - [ ] Diagramas de dependências internas
+ - [ ] Diagrama de garantia de qualidade
  - [ ] Adicionar Sonarcloud
  - [ ] Analisar código
  - [ ] Adicionar Badge
