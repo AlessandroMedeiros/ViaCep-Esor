@@ -9,36 +9,13 @@ Trabalho 3: Engenharia de Software Orientado a Modelos
   * Gabriel Verdi
   * Gabriel Bilhar
   * Luiza Nunes
-#Objetivo
 
-Desenvolver um projeto de software com aplicação de estilos e propriedades arquiteturais.
+## Lista_de_Tarefas
 
-# Instruções
-
-A turma está dividida em três equipes. Cada equipe com até seis participantes. Cada equipe deve produzir documentação suficiente para comunicar estilos e propriedades arquiteturais da aplicação desenvolvida.
-
-Para estilos arquiteturais recomenda-se consultar o material de aula e propriedades ou características de software, consultar o Trabalho T2, material de aula e a ISO 9126/ISO 25010. Um exemplo de estilo arquitetural é Camadas e um exemplo de propriedade arquitetural é a Testabilidade.
-
-Recomenda-se o uso de diagramas da UML ou uma linguagem própria para descrição arquitetural.
-
-Recomenda-se o uso de ferramentas como Astah, Plant UML e PlantTextUML.
-
-Recomenda-se o uso do framework Spring, pela facilidade em identificar diferentes estilos arquiteturais e pelos guias que tratam de propriedades específicas do software.
-
-Os diagramas devem utilizar nomes de pacotes, classes, interfaces, bibliotecas e demais elementos que podem ser encontrados no repositório.
-
-Para completar  a tarefa, contribua no repositório da sua equipe. Verifique que cada um tem uma tarefa própria. 
-
-Envie o endereço do seu repositório até o final da aula.
-
-Domínio de Aplicação
-
-A aplicação documentada deve existir e deve executar. A equipe deve (a) desenvolver ou (b) localizar uma implementação que forneça funções similares ao serviço ViaCEP (https://viacep.com.br/).
-
-Existem diversas implementações disponíveis no GitHub. Caso escolham documentar uma implementação de terceiros, indiquem a referência e verifiquem se a aplicação funciona corretamente.
-
-# Critérios de avaliação
-
-a) no mínimo três modelos, com estilos diferentes;
-b) no mínimo três decisões arquiteturais, com propriedades diferentes;
-c) analisador de código configurado (veja o Trabalho T2);
+ - [x] Adicionar programa Hackatona
+ - [ ] Implementação modelo Facade
+ - [ ] Implementação modelo Repository
+ - [x] Implementação modelo Observer
+ - [ ] Adicionar Sonarcloud
+ - [ ] Analisar código
+ - [ ] Adicionar Badge
