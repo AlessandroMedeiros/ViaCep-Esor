@@ -21,4 +21,4 @@ DeletarObserver --> ObserverModule
 DeletarAlunoDoTimeEvent --> AlunoService
 ObserverModule --> AlunoService
 ObserverModule ..> DeletarDoTimeObserver
-@
+@enduml
