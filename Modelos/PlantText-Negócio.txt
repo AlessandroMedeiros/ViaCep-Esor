@@ -1,0 +1,38 @@
+@startuml
+
+
+
+title Hackatona - Camada de Negócio
+
+frame "Visualização"{
+  component [Controller] as CTRL{
+
+  }
+}
+
+
+component [ServiceLayer] as SV {
+
+}
+
+component [SpringFactory] as SF {
+
+}
+
+
+frame "Persistencia"{
+  component [RepositoryLayer] as REPO {
+
+  }
+}
+
+
+CTRL --> SV : DTO
+CTRL <-- SV : Model
+
+SV <--> SF : Model
+
+SF <--> REPO : Model
+
+
+@enduml
