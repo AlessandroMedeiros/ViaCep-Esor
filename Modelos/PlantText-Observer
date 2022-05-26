@@ -1,0 +1,24 @@
+@startuml
+interface DeletarDoTimeObserver{
+  +deletarDoTime() : void
+}
+class ObserverModule{
+  -service : AlunoService
+  +ObserverModule(,) : AlunoService
+}
+class AlunoService
+class DeletarAlunoDoTimeEvent{
+  -aluno : AlunoModel
+  +DeletarAlunoDoTime(,) : void
+  +getAluno() : AlunoModel
+}
+class DeletarObserver{
+  -events : 
+  +addEvent(,) : void
+  +getEvents() : 
+}
+DeletarObserver --> ObserverModule
+DeletarAlunoDoTimeEvent --> AlunoService
+ObserverModule --> AlunoService
+ObserverModule ..> DeletarDoTimeObserver
+@
