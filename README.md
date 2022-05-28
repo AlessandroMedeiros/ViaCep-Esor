@@ -2,13 +2,13 @@
 Trabalho 3: Engenharia de Software Orientado a Modelos
 
 ## Integrantes
-  * Victor Putrich
-  * Guilherme Carvalho
-  * Lucca Dornelles
-  * Alessandro Medeiros
-  * Gabriel Verdi
-  * Gabriel Bilhar
-  * Luiza Nunes
+* Alessandro Medeiros
+* Gabriel Bilhar
+* Gabriel Verdi
+* Guilherme Carvalho
+* Lucca Dornelles
+* Luiza Nunes
+* Victor Putrich
 
 ## Lista_de_Tarefas
 
